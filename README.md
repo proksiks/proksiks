@@ -1,16 +1,15 @@
-[![Главная картинка](https://github.com/proksiks/proksiks/blob/main/assets/screen.gif)](https://proksiks.github.io/site/articles/)
+<center><a href="https://proksiks.github.io/site/articles/" targe="_blank"><img src="https://github.com/proksiks/proksiks/blob/main/assets/screen.gif" alt="Главная картинка" /></a></center>
 
-<!--
-**proksiks/proksiks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Привет, я Владимир
 
-Here are some ideas to get you started:
+**Занимаю коммерческой разработкой с 2019 года, мой основной стек**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Vue](https://img.shields.io/badge/Vue-41b883) ![Nuxt](https://img.shields.io/badge/Nuxt-001e26) ![JavaScript](https://img.shields.io/badge/JavaScript-1f1f1f?logo=javascript&logoColor=f7e025) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=ffffff) ![HTML](https://img.shields.io/badge/HTML-e44d26) ![CSS](https://img.shields.io/badge/CSS-264de4) ![SCSS](https://img.shields.io/badge/SCSS-d0469d) ![VITE](https://img.shields.io/badge/VITE-ffb109) ![Pinia](https://img.shields.io/badge/Pinia-edbb36) ![FSD](https://img.shields.io/badge/FSD-263f5f)
+
+#### Социальные сети
+
+[![Telegram](https://img.shields.io/badge/TELEGRAM-303a4d?logo=telegram&logoColor=27a0d9)](https://t.me/ProKsiKzzz) [![VKONTAKTE](https://img.shields.io/badge/VKONTAKTE-303a4d?logo=vk&logoColor=4f7db3)](https://vk.com/poksiks)
+
+Ссылка на сайт где представлены часть моих работ [сайт](https://proksiks.github.io/my-pet-projects/projects/)
+
+[![Статистика](https://github-readme-stats.vercel.app/api/top-langs?username=proksiks&show_icons=true)](https://github.com/proksiks/github-readme-stats)
