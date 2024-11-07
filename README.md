@@ -1,4 +1,6 @@
-<div style="display: flex; justify-content: center; margin: auto; text-aling: center;"><a href="https://proksiks.github.io/site/articles/" targe="_blank"><img style="display: block; margin: auto; max-width: 100%;" src="https://github.com/proksiks/proksiks/blob/main/assets/screen.webp" alt="Главная картинка" /></a></div>
+<a href="https://delicate-biscochitos-943cd3.netlify.app/" targe="_blank">
+    <img style="display: block; margin: auto; max-width: 100%;" src="https://github.com/proksiks/proksiks/blob/main/assets/screen.webp" alt="Главная картинка" />
+</a>
 
 ## Привет, я Владимир
 
