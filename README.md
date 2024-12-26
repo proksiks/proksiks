@@ -12,6 +12,6 @@
 
 [![Telegram](https://img.shields.io/badge/TELEGRAM-303a4d?logo=telegram&logoColor=27a0d9)](https://t.me/ProKsiKzzz) [![VKONTAKTE](https://img.shields.io/badge/VKONTAKTE-303a4d?logo=vk&logoColor=4f7db3)](https://vk.com/poksiks)
 
-Ссылка на сайт где представлены часть моих работ [сайт](https://proksiks.github.io/my-pet-projects/projects/)
+Ссылка на сайт где представлены часть моих работ [сайт]("https://delicate-biscochitos-943cd3.netlify.app/projects/)
 
 [![Статистика](https://github-readme-stats.vercel.app/api/top-langs?username=proksiks&show_icons=true)](https://github.com/proksiks/github-readme-stats)
