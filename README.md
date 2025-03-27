@@ -1,5 +1,5 @@
 <a href="https://delicate-biscochitos-943cd3.netlify.app/" targe="_blank">
-    <img style="display: block; margin: auto; max-width: 100%;" src="https://github.com/proksiks/proksiks/blob/main/assets/screen.webp" alt="Главная картинка" />
+    <img style="display: block; margin: auto; max-width: 100%;" src="https://github.com/proksiks/proksiks/blob/main/assets/holder.webp" alt="Главная картинка" />
 </a>
 
 ## Привет, я Владимир
