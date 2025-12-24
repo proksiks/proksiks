@@ -22,6 +22,7 @@
 
 ## Недавние проекты
 [Обои на рабочий стол](https://steamcommunity.com/sharedfiles/filedetails/?id=3602769648&clckid=69a65c8d)
+
 [Обработчик свайпов](https://proksiks.github.io/swipe-handler/)
 
 ## Соц./контакты
