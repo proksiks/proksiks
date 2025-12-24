@@ -2,7 +2,7 @@
     <img style="display: block; margin: auto; max-width: 100%;" src="https://github.com/proksiks/proksiks/blob/main/assets/holder.webp" alt="Главная картинка" />
 </a>
 
-<h1 align="left">Владимир Хлюпнев — Senior Frontend / Fullstack (Vue/Nuxt, TS, PWA)</h1>
+<h1 align="left">Владимир Хлюпнев — любит анимашки и красивые кнопочки</h1>
 
 <p align="left">
   Создаю высоконагруженные веб-приложения: Vue/Nuxt, TypeScript, PWA, SSR/SSG/ISR, архитектура интерфейсов (FSD/Atomic), производительность и DX. Интеграции с Java/Spring, Go, Node.js; CI/CD, Docker, Kubernetes, Keycloak/OIDC.
@@ -20,22 +20,9 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-containers-2496ED?logo=docker&logoColor=white&style=for-the-badge">
 </p>
 
-## Чем полезен продукту
-- ERP 30k+ DAU: мобильные интерфейсы, QR-флоу и offline-режим для полевых сценариев; роли/ACL и отчеты (Excel) повышают масштабируемость и контроль качества данных.  
-- SVG-пайплайн (Figma → JSON): автоматизация сократила сроки задач с 3–7 до 1–2 дней, экономя десятки часов на проект.  
-- jmix.io редизайн: показатели Lighthouse выросли примерно в 2 раза (~40 → 80+), сохранив многоязычность и стабильность.  
-- Индустриальная PWA: интерактивная SVG-карта станций/перевозок, ускорение подготовки документов и точность контроля.  
-
-## Технологии и фокус
-- Frontend: Vue 2/3, Nuxt 2/3, React 16+, TypeScript, Pinia/Vuex, Vite/Webpack, Tailwind/SCSS, PWA, SSR/SSG/ISR.  
-- Архитектура: FSD, Atomic Design, модульные структуры, design system, code-splitting, data-fetching стратегии.  
-- Инфра/интеграции: GitLab CI/CD, Docker, Kubernetes (интеграции), Keycloak/OIDC, Vitest/Jest/Cypress; Java/Spring, Go, Node.js; MySQL/MongoDB, REST/GraphQL.  
-
 ## Недавние проекты
-- ERP (АПХ ЭКО-культура): «История задач» (ACL, отчёты, Excel), «Фенология» (QR-коды, сканирование, offline-синхронизация), адаптивная моб. версия.  
-- МТЛАБ (ДЗЗ): админка (промокоды, роли, биллинг), Telegram Mini App для визуализации спутниковых снимков (выбор области → выдача).  
-- ИТЛ Консалтинг: SVG-парсер Figma→JSON; индустриальная PWA с интерактивными объектами и ускоренным документооборотом.  
-- Haulmont: фронтенд haulmont.ru на Vue 3 + Nuxt; редизайн jmix.io (Lighthouse ~40 → 80+), корпоративный портал, онбординг-платформа.  
+[Обои на рабочий стол](https://steamcommunity.com/sharedfiles/filedetails/?id=3602769648&clckid=69a65c8d)
+[Обработчик свайпов](https://proksiks.github.io/swipe-handler/)
 
 ## Соц./контакты
 - Портфолио: https://delicate-biscochitos-943cd3.netlify.app  
