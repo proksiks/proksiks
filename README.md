@@ -5,7 +5,7 @@
 <h1 align="left">Владимир Хлюпнев — любит анимашки и красивые кнопочки</h1>
 
 <p align="left">
-  Создаю высоконагруженные веб-приложения: Vue/Nuxt, TypeScript, PWA, SSR/SSG/ISR, архитектура интерфейсов (FSD/Atomic), производительность и DX. Интеграции с Java/Spring, Go, Node.js; CI/CD, Docker, Kubernetes, Keycloak/OIDC.
+  Создаю высоконагруженные веб-приложения: Vue/Nuxt, TypeScript, PWA, SSR/SSG/ISR, архитектура интерфейсов (FSD/Atomic), производительность и UX. Интеграции с Java/Spring, Go, Node.js; CI/CD, Docker, Kubernetes, Keycloak/OIDC.
 </p>
 
 <p align="left">
