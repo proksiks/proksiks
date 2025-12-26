@@ -26,7 +26,7 @@
 [Обработчик свайпов](https://proksiks.github.io/swipe-handler/)
 
 ## Соц./контакты
-- @TG: @ProKsiKzzz
+- @TG: [@ProKsiKzzz](https://t.me/ProKsiKzzz)
 - Email: proksik49032@mail.ru  
 
 [Netlify](https://delicate-biscochitos-943cd3.netlify.app/projects/)
