@@ -35,4 +35,4 @@
 [![Telegram](https://img.shields.io/badge/TELEGRAM-303a4d?logo=telegram&logoColor=27a0d9)](https://t.me/ProKsiKzzz) [![VKONTAKTE](https://img.shields.io/badge/VKONTAKTE-303a4d?logo=vk&logoColor=4f7db3)](https://vk.com/poksiks)
 ---
 
-[![Статистика](https://github-readme-stats.vercel.app/api/top-langs?username=proksiks&show_icons=true)](https://github.com/proksiks/github-readme-stats)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=proksiks&layout=compact&hide=html,css,scss&show_icons=true)](https://github.com/proksiks/github-readme-stats)
