@@ -1,50 +1,79 @@
-<a href="https://delicate-biscochitos-943cd3.netlify.app/" targe="_blank">
-    <img style="display: block; margin: auto; max-width: 100%;" src="https://github.com/proksiks/proksiks/blob/main/assets/holder.webp" alt="Главная картинка" />
+<div align="center">
+
+<a href="https://delicate-biscochitos-943cd3.netlify.app/" target="_blank">
+  <img src="https://github.com/proksiks/proksiks/blob/main/assets/holder.webp?raw=true" 
+       alt="Vladimir Khlyupnev — Frontend Architect" 
+       width="100%" 
+       style="border-radius: 12px; box-shadow: 0 20px 40px rgba(0,0,0,0.3);"/>
 </a>
 
-<h1 align="left">Владимир Хлюпнев — Senior Frontend / Fullstack (Vue/Nuxt, TS, PWA)</h1>
+# 🔥 Владимир Хлюпнев
+**Frontend Architect | Vue/Nuxt Team Lead | Performance Wizard**
 
-<p align="left">
-  Создаю высоконагруженные веб-приложения: Vue/Nuxt, TypeScript, PWA, SSR/SSG/ISR, архитектура интерфейсов (FSD/Atomic), производительность и DX. Интеграции с Java/Spring, Go, Node.js; CI/CD, Docker, Kubernetes, Keycloak/OIDC.
-</p>
+> Создаю высоконагруженные веб-приложения: **Vue 3/Nuxt 3**, **TypeScript**, **PWA**, **SSR/SSG/ISR**. Архитектура FSD/Atomic, интеграции **Java/Spring**, **Go**, **Node.js**. **CI/CD**, **Docker**, **Kubernetes**, **Keycloak/OIDC**.
 
-<p align="left">
-  <a href="https://github.com/proksiks">
-    <img alt="Stack Vue/Nuxt" src="https://img.shields.io/badge/Vue-3-42b883?logo=vue.js&logoColor=white&label=Vue&labelColor=35495e&style=for-the-badge">
-  </a>
-  <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-3-00DC82?logo=nuxt.js&logoColor=white&style=for-the-badge">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-4%2B-3178C6?logo=typescript&logoColor=white&style=for-the-badge">
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-4%2B-646CFF?logo=vite&logoColor=white&style=for-the-badge">
-  <img alt="PWA" src="https://img.shields.io/badge/PWA-offline--first-5a0fc8?style=for-the-badge">
-  <img alt="CI/CD" src="https://img.shields.io/badge/GitLab_CI%2FCD-pipelines-fc6d26?logo=gitlab&logoColor=white&style=for-the-badge">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-containers-2496ED?logo=docker&logoColor=white&style=for-the-badge">
-</p>
+</div>
 
-## Чем полезен продукту
-- ERP 30k+ DAU: мобильные интерфейсы, QR-флоу и offline-режим для полевых сценариев; роли/ACL и отчеты (Excel) повышают масштабируемость и контроль качества данных.  
-- SVG-пайплайн (Figma → JSON): автоматизация сократила сроки задач с 3–7 до 1–2 дней, экономя десятки часов на проект.  
-- jmix.io редизайн: показатели Lighthouse выросли примерно в 2 раза (~40 → 80+), сохранив многоязычность и стабильность.  
-- Индустриальная PWA: интерактивная SVG-карта станций/перевозок, ускорение подготовки документов и точность контроля.  
+## 🛠️ Tech Stack
 
-## Технологии и фокус
-- Frontend: Vue 2/3, Nuxt 2/3, React 16+, TypeScript, Pinia/Vuex, Vite/Webpack, Tailwind/SCSS, PWA, SSR/SSG/ISR.  
-- Архитектура: FSD, Atomic Design, модульные структуры, design system, code-splitting, data-fetching стратегии.  
-- Инфра/интеграции: GitLab CI/CD, Docker, Kubernetes (интеграции), Keycloak/OIDC, Vitest/Jest/Cypress; Java/Spring, Go, Node.js; MySQL/MongoDB, REST/GraphQL.  
+<table align="center">
+<tr>
+  <td align="center" width="16%">
+    <a href="https://vuejs.org/">
+      <img src="https://img.shields.io/badge/Vue-3-42b883?logo=vue.js&logoColor=white&label=Vue&labelColor=35495e&style=for-the-badge" />
+    </a><br><b>Vue 3</b>
+  </td>
+  <td align="center" width="16%">
+    <a href="https://nuxt.com/">
+      <img src="https://img.shields.io/badge/Nuxt-3-00DC82?logo=nuxt.js&logoColor=white&style=for-the-badge" />
+    </a><br><b>Nuxt 3</b>
+  </td>
+  <td align="center" width="16%">
+    <img src="https://img.shields.io/badge/TypeScript-5+-3178C6?logo=typescript&logoColor=white&style=for-the-badge" /><br><b>TypeScript</b>
+  </td>
+  <td align="center" width="16%">
+    <img src="https://img.shields.io/badge/Vite-5+-646CFF?logo=vite&logoColor=white&style=for-the-badge" /><br><b>Vite</b>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="16%">
+    <img src="https://img.shields.io/badge/PWA-offline--first-5a0fc8?style=for-the-badge" /><br><b>PWA</b>
+  </td>
+  <td align="center" width="16%">
+    <img src="https://img.shields.io/badge/Tailwind-CSS-38bdf8?logo=tailwindcss&logoColor=white&style=for-the-badge" /><br><b>Tailwind</b>
+  </td>
+  <td align="center" width="16%">
+    <img src="https://img.shields.io/badge/Docker-25+-2496ED?logo=docker&logoColor=white&style=for-the-badge" /><br><b>Docker</b>
+  </td>
+  <td align="center" width="16%">
+    <img src="https://img.shields.io/badge/Kubernetes-K8s-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" /><br><b>K8s</b>
+  </td>
+</tr>
+</table>
 
-## Недавние проекты
-- ERP (АПХ ЭКО-культура): «История задач» (ACL, отчёты, Excel), «Фенология» (QR-коды, сканирование, offline-синхронизация), адаптивная моб. версия.  
-- МТЛАБ (ДЗЗ): админка (промокоды, роли, биллинг), Telegram Mini App для визуализации спутниковых снимков (выбор области → выдача).  
-- ИТЛ Консалтинг: SVG-парсер Figma→JSON; индустриальная PWA с интерактивными объектами и ускоренным документооборотом.  
-- Haulmont: фронтенд haulmont.ru на Vue 3 + Nuxt; редизайн jmix.io (Lighthouse ~40 → 80+), корпоративный портал, онбординг-платформа.  
+## 🚀 Недавние проекты
 
-## Соц./контакты
-- Портфолио: https://delicate-biscochitos-943cd3.netlify.app  
-- Email: proksik49032@mail.ru  
+<div align="center">
 
-[Netlify](https://delicate-biscochitos-943cd3.netlify.app/projects/)
-[Vercel](https://the-site-neon.vercel.app/projects/)
+[![Steam Wallpapers](https://img.shields.io/badge/Steam%20Wallpapers-🔥-00d4aa?logo=steam&logoColor=white&style=for-the-badge)](https://steamcommunity.com/sharedfiles/filedetails/?id=3602769648)
+[![Swipe Handler](https://img.shields.io/badge/Swipe%20Handler-✨-6366f1?logo=javascript&logoColor=white&style=for-the-badge)](https://proksiks.github.io/swipe-handler/)
+[![Netlify Portfolio](https://img.shields.io/badge/Portfolio-Netlify-00c7b7?logo=netlify&logoColor=white&style=for-the-badge)](https://delicate-biscochitos-943cd3.netlify.app/)
+[![Vercel Projects](https://img.shields.io/badge/Projects-Vercel-000?logo=vercel&logoColor=white&style=for-the-badge)](https://the-site-neon.vercel.app/)
 
-[![Telegram](https://img.shields.io/badge/TELEGRAM-303a4d?logo=telegram&logoColor=27a0d9)](https://t.me/ProKsiKzzz) [![VKONTAKTE](https://img.shields.io/badge/VKONTAKTE-303a4d?logo=vk&logoColor=4f7db3)](https://vk.com/poksiks)
----
+</div>
 
-[![Статистика](https://github-readme-stats.vercel.app/api/top-langs?username=proksiks&show_icons=true)](https://github.com/proksiks/github-readme-stats)
+## 📊 Статистика разработки
+
+```mermaid
+graph TB
+  A[Vue/Nuxt<br/>70% проектов] --> B[TypeScript<br/>100% код]
+  A --> C[PWA<br/>5+ проектов]
+  B --> D[Docker<br/>Production]
+  C --> E[Kubernetes<br/>Deploy]
+  D --> F[GitLab CI/CD<br/>Pipelines]
+  E --> G[Keycloak OIDC<br/>Auth]
+  F --> H[Java/Spring<br/>Backend]
+  G --> I[Go/Node APIs<br/>Integration]
+  style A fill:#42b883
+  style B fill:#3178C6
+  style C fill:#5a0fc8
