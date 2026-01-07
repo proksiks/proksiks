@@ -62,18 +62,31 @@
 
 </div>
 
+## 🎯 Контакты
+
+<p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2"><a rel="nofollow noopener" class="reset interactable cursor-pointer decoration-1 underline-offset-1 text-super hover:underline font-semibold" target="_blank" href="https://t.me/ProKsiKzzz"><span class="text-box-trim-both"><img class="undefined rounded-lg" alt="Telegram" src="https://img.shields.io/badge/Telegram-@ProKsiKzzz-27a0d9?logo=telegram&amp;logoColor=white&amp;style=for-the-badge"></span></a><br>
+<a rel="nofollow noopener" class="reset interactable cursor-pointer decoration-1 underline-offset-1 text-super hover:underline font-semibold" target="_blank" href="mailto:proksik49032@mail.ru"><span class="text-box-trim-both"><img class="undefined rounded-lg" alt="Email" src="https://img.shields.io/badge/Email-proksik49032@mail.ru-ff6b6b?logo=gmail&amp;logoColor=white&amp;style=for-the-badge"></span></a><br>
+<a rel="nofollow noopener" class="reset interactable cursor-pointer decoration-1 underline-offset-1 text-super hover:underline font-semibold" target="_blank" href="https://vk.com/poksiks"><span class="text-box-trim-both"><img class="undefined rounded-lg" alt="VK" src="https://img.shields.io/badge/VK-poksiks-4f7db3?logo=vk&amp;logoColor=white&amp;style=for-the-badge"></span></a></p>
+
+
 ## 📊 Статистика разработки
 
 ```mermaid
 graph TB
-  A[Vue/Nuxt<br/>70% проектов] --> B[TypeScript<br/>100% код]
-  A --> C[PWA<br/>5+ проектов]
-  B --> D[Docker<br/>Production]
-  C --> E[Kubernetes<br/>Deploy]
-  D --> F[GitLab CI/CD<br/>Pipelines]
-  E --> G[Keycloak OIDC<br/>Auth]
-  F --> H[Java/Spring<br/>Backend]
-  G --> I[Go/Node APIs<br/>Integration]
-  style A fill:#42b883
-  style B fill:#3178C6
-  style C fill:#5a0fc8
+  A[Nuxt 3<br/>Core Framework] --> B[Vue 3<br/>Reactive UI]
+  A --> C[TypeScript<br/>Type Safety]
+  B --> D[Vite<br/>Fast Builds]
+  C --> E[Docker<br/>Containers]
+  D --> F[Tailwind<br/>Modern CSS]
+  E --> G[Node.js<br/>Backend APIs]
+  F --> H[GitLab CI/CD<br/>Automation]
+  
+  style A fill:#00DC82
+  style B fill:#42b883
+  style C fill:#3178C6
+  style D fill:#646CFF
+  style E fill:#2496ED
+  style F fill:#38bdf8
+  style G fill:#339af0
+  style H fill:#fc6d26
+```
