@@ -144,16 +144,16 @@
 <div align="center">
 
 <a href="https://github.com/proksiks?tab=repositories" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/proksiks/proksiks/output/profile-summary-card-output/tokyonight/3-stats.svg" alt="Статистика GitHub" width="390" />
-  <img src="https://raw.githubusercontent.com/proksiks/proksiks/output/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Языки по коммитам" width="390" />
+  <img src="https://raw.githubusercontent.com/proksiks/proksiks/output/profile-summary-card-output/tokyonight/3-stats.svg?v=2" alt="Статистика GitHub" width="390" />
+  <img src="https://raw.githubusercontent.com/proksiks/proksiks/output/profile-summary-card-output/tokyonight/2-most-commit-language.svg?v=2" alt="Языки по коммитам" width="390" />
 </a>
 
 ### GitHub Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/proksiks/proksiks/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/proksiks/proksiks/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/proksiks/proksiks/output/github-snake.svg" alt="Змейка на графике вкладов GitHub" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/proksiks/proksiks/output/github-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/proksiks/proksiks/output/github-snake.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/proksiks/proksiks/output/github-snake.svg?v=2" alt="Змейка на графике вкладов GitHub" width="100%" />
 </picture>
 
 </div>
